@@ -147,7 +147,7 @@ button:focus{
     font-size: 80px;
 }
 
-@media (min-width:550px){
+@media (min-width:650px){
     main{
         flex-direction: row;
         justify-content: center;
